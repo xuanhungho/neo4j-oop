@@ -1,0 +1,51 @@
+DinhDanh,Nhan,Mota,LinkTrichRut,ThoiGianTrichRut,Age,Job,Quoctich
+Hà_Thị_Mạnh0,Hà Thị Mạnh,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Dec 21  2018,36,Tho sua ong nuoc,Nga
+Lê_Trần_Sinh_Mạnh1,Lê Trần Sinh Mạnh,037567888,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Dec 20  2018,65,An trom,Phap
+Trần_Xuân_Chung2,Trần Xuân Chung,037567888,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Dec 19  2018,83,Ky su,Nhat
+"Đinh_Sinh_Chung3",Đinh Sinh Chung,098856743,http://kenh14.vn/tv-show.chn,Tue Dec 18  2018,7,Cong nhan,Viet Nam
+Lê_Đức_Việt4,Lê Đức Việt,01648340941,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Dec 17  2018,88,Ky su,Phap
+Lê_Trần_Thế_Việt5,Lê Trần Thế Việt,024677588,https://www.facebook.com/,Sun Dec 16  2018,66,Tho dien,Nga
+"Đinh_Văn_Cương6",Đinh Văn Cương,037567888,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Dec 15  2018,3,Cong nhan,My
+Nguyễn_Đức_Dương7,Nguyễn Đức Dương,024677588,https://linkerpt.com/lap-trinh,Fri Dec 14  2018,53,Cong nhan,Phap
+"Đinh_Giang_Chung8",Đinh Giang Chung,098856743,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Thu Dec 13  2018,79,Tho dien,Viet Nam
+"Đinh_Xuân_Cương9",Đinh Xuân Cương,01648340941,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Dec 12  2018,87,Cong nhan,Anh
+"Đinh_Giang_Việt10",Đinh Giang Việt,024677588,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Dec 11  2018,4,Ky su,Nga
+Lê_Trần_Văn_Chung11,Lê Trần Văn Chung,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Dec 10  2018,86,Tho dien,Viet Nam
+Nguyễn_Đức_Cương12,Nguyễn Đức Cương,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sun Dec 09  2018,48,Tho sua ong nuoc,Nhat
+Hà_Sinh_Mạnh13,Hà Sinh Mạnh,037567888,https://www.youtube.com/,Sat Dec 08  2018,47,Cong nhan,Nga
+Hà_Thị_Mạnh14,Hà Thị Mạnh,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Dec 07  2018,72,Tho dien,Phap
+"Đinh_Thị_Việt15",Đinh Thị Việt,098856743,https://www.facebook.com/,Thu Dec 06  2018,8,Tho dien,Duc
+Lê_Sinh_Hùng16,Lê Sinh Hùng,037567888,https://xuanhung937556578.wordpress.com/,Wed Dec 05  2018,35,Giao vien,Viet Nam
+Trần_Thị_Mạnh17,Trần Thị Mạnh,037567888,https://linkerpt.com/lap-trinh,Tue Dec 04  2018,18,Tho sua ong nuoc,Campuchia
+Nguyễn_Giang_Chung18,Nguyễn Giang Chung,01648340941,https://www.facebook.com/,Mon Dec 03  2018,69,Ky su,Duc
+Trần_Văn_Hoàng19,Trần Văn Hoàng,0123566789,https://violympic.vn/bong-da-c48.html,Sun Dec 02  2018,56,Cong nhan,My
+Lê_Thế_Dương20,Lê Thế Dương,037567888,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sat Dec 01  2018,53,Sinh vien,Campuchia
+Hà_Thị_Hoàng21,Hà Thị Hoàng,037567888,https://xuanhung937556578.wordpress.com/,Fri Nov 30  2018,72,Sinh vien,My
+Nguyễn_Thế_Mạnh22,Nguyễn Thế Mạnh,0123566789,http://kenh14.vn/tv-show.chn,Thu Nov 29  2018,78,Cong nhan,My
+Lê_Trần_Thế_Chung23,Lê Trần Thế Chung,0123566789,https://violympic.vn/bong-da-c48.html,Wed Nov 28  2018,67,Ky su,Duc
+Trần_Đức_Hoàng24,Trần Đức Hoàng,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Nov 27  2018,80,Tho dien,Lao
+Hồ_Đức_Cương25,Hồ Đức Cương,0123566789,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Nov 26  2018,88,Cong nhan,Nga
+Hồ_Đức_Mạnh26,Hồ Đức Mạnh,037567888,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Nov 25  2018,58,An trom,Viet Nam
+"Đinh_Văn_Cương27",Đinh Văn Cương,024677588,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sat Nov 24  2018,40,Tho sua ong nuoc,Nga
+"Đinh_Thế_Hương28",Đinh Thế Hương,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Fri Nov 23  2018,75,Cong nhan,Campuchia
+"Đinh_Đức_Cương29",Đinh Đức Cương,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Nov 22  2018,19,Cong nhan,Duc
+Lê_Trần_Xuân_Mạnh30,Lê Trần Xuân Mạnh,01648340941,https://techtalk.vn/category/dev,Wed Nov 21  2018,39,Cong nhan,Lao
+"Đinh_Văn_Hương31",Đinh Văn Hương,098856743,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Nov 20  2018,42,Ky su,Nhat
+Hồ_Xuân_Hùng32,Hồ Xuân Hùng,01648340941,https://www.facebook.com/,Mon Nov 19  2018,74,Tho sua ong nuoc,Nga
+Hà_Thế_Cương33,Hà Thế Cương,0123566789,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Nov 18  2018,38,Giao vien,Anh
+Nguyễn_Thị_Hoàng34,Nguyễn Thị Hoàng,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sat Nov 17  2018,56,Cong nhan,My
+Nguyễn_Văn_Mạnh35,Nguyễn Văn Mạnh,037567888,http://kenh14.vn/tv-show.chn,Fri Nov 16  2018,14,Giao vien,Duc
+Hà_Xuân_Hoàng36,Hà Xuân Hoàng,0123566789,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Nov 15  2018,58,Tho dien,Nga
+Lê_Trần_Đức_Dương37,Lê Trần Đức Dương,098856743,https://www.24h.com.vn/bong-da-c48.html,Wed Nov 14  2018,19,An trom,Duc
+Hà_Thế_Chung38,Hà Thế Chung,0123566789,https://violympic.vn/bong-da-c48.html,Tue Nov 13  2018,74,Cong nhan,Campuchia
+Nguyễn_Thế_Hoàng39,Nguyễn Thế Hoàng,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Nov 12  2018,0,Giao vien,My
+Nguyễn_Thị_Cương40,Nguyễn Thị Cương,098856743,https://xuanhung937556578.wordpress.com/,Sun Nov 11  2018,8,Tho dien,My
+Nguyễn_Thị_Mạnh41,Nguyễn Thị Mạnh,0123566789,https://techtalk.vn/category/dev,Sat Nov 10  2018,14,Ky su,Phap
+Lê_Đức_Mạnh42,Lê Đức Mạnh,098856743,https://xuanhung937556578.wordpress.com/,Fri Nov 09  2018,78,Giao vien,Lao
+"Đinh_Xuân_Hùng43",Đinh Xuân Hùng,037567888,http://kenh14.vn/tv-show.chn,Thu Nov 08  2018,56,Cong nhan,Nhat
+Lê_Văn_Hoàng44,Lê Văn Hoàng,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Nov 07  2018,17,An trom,Nga
+Nguyễn_Đức_Hùng45,Nguyễn Đức Hùng,0123566789,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Nov 06  2018,86,Tho dien,Nhat
+Lê_Thế_Hùng46,Lê Thế Hùng,098856743,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Nov 05  2018,75,Sinh vien,Lao
+Hồ_Văn_Cương47,Hồ Văn Cương,0123566789,https://violympic.vn/bong-da-c48.html,Sun Nov 04  2018,16,Tho dien,My
+"Đinh_Thế_Việt48",Đinh Thế Việt,0123566789,https://xuanhung937556578.wordpress.com/,Sat Nov 03  2018,10,Tho sua ong nuoc,Nga
+Hồ_Thị_Chung49,Hồ Thị Chung,098856743,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Nov 02  2018,78,Tho sua ong nuoc,My
