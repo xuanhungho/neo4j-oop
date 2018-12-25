@@ -1,0 +1,201 @@
+DinhDanh:ID(Person),Nhan,Mota,LinkTrichRut,ThoiGianTrichRut,Age,Job,Quoctich
+Lê_Giang_Việt0,Lê Giang Việt,098856743,https://linkerpt.com/lap-trinh,Tue Dec 25  2018,58,Sinh vien,Viet Nam
+Trần_Xuân_Mạnh1,Trần Xuân Mạnh,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Dec 24  2018,88,Tho dien,Nhat
+Lê_Sinh_Hùng2,Lê Sinh Hùng,01648340941,https://techtalk.vn/category/dev,Sun Dec 23  2018,59,Tho dien,Nga
+Lê_Đức_Cương3,Lê Đức Cương,0123566789,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Dec 22  2018,40,Tho sua ong nuoc,Campuchia
+"Đinh_Thị_Việt4",Đinh Thị Việt,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Dec 21  2018,6,Cong nhan,Nga
+Hồ_Thế_Hùng5,Hồ Thế Hùng,01648340941,https://linkerpt.com/lap-trinh,Thu Dec 20  2018,0,Cong nhan,Nga
+Lê_Giang_Dương6,Lê Giang Dương,024677588,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Wed Dec 19  2018,12,Cong nhan,Nhat
+"Đinh_Xuân_Cương7",Đinh Xuân Cương,098856743,https://www.24h.com.vn/bong-da-c48.html,Tue Dec 18  2018,71,Sinh vien,My
+"Đinh_Văn_Hoàng8",Đinh Văn Hoàng,098856743,http://kenh14.vn/tv-show.chn,Mon Dec 17  2018,16,Giao vien,Phap
+"Đinh_Giang_Dương9",Đinh Giang Dương,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Dec 16  2018,62,Tho sua ong nuoc,My
+Hồ_Giang_Chung10,Hồ Giang Chung,01648340941,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Dec 15  2018,9,Tho dien,Phap
+"Đinh_Giang_Mạnh11",Đinh Giang Mạnh,024677588,https://www.facebook.com/,Fri Dec 14  2018,13,Cong nhan,Duc
+Lê_Sinh_Hương12,Lê Sinh Hương,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Dec 13  2018,88,Giao vien,Campuchia
+"Đinh_Thị_Hoàng13",Đinh Thị Hoàng,037567888,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Dec 12  2018,65,Cong nhan,My
+Hồ_Sinh_Việt14,Hồ Sinh Việt,0123566789,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Dec 11  2018,30,Tho dien,Campuchia
+Lê_Trần_Xuân_Hương15,Lê Trần Xuân Hương,098856743,https://linkerpt.com/lap-trinh,Mon Dec 10  2018,43,Ky su,Nga
+"Đinh_Thị_Cương16",Đinh Thị Cương,098856743,https://xuanhung937556578.wordpress.com/,Sun Dec 09  2018,6,Cong nhan,Nhat
+"Đinh_Giang_Mạnh17",Đinh Giang Mạnh,024677588,https://linkerpt.com/lap-trinh,Sat Dec 08  2018,26,Tho dien,Phap
+Lê_Thị_Hoàng18,Lê Thị Hoàng,0123566789,https://www.24h.com.vn/bong-da-c48.html,Fri Dec 07  2018,53,Tho sua ong nuoc,Phap
+"Đinh_Đức_Cương19",Đinh Đức Cương,01648340941,https://www.youtube.com/,Thu Dec 06  2018,69,Sinh vien,Duc
+Nguyễn_Đức_Hoàng20,Nguyễn Đức Hoàng,024677588,http://kenh14.vn/tv-show.chn,Wed Dec 05  2018,31,Tho dien,Viet Nam
+"Đinh_Thế_Cương21",Đinh Thế Cương,0123566789,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Dec 04  2018,37,Giao vien,Phap
+"Đinh_Thị_Mạnh22",Đinh Thị Mạnh,037567888,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Mon Dec 03  2018,34,Tho sua ong nuoc,Nhat
+Trần_Giang_Cương23,Trần Giang Cương,037567888,https://www.facebook.com/,Sun Dec 02  2018,73,Cong nhan,Campuchia
+Hà_Giang_Hùng24,Hà Giang Hùng,037567888,https://xuanhung937556578.wordpress.com/,Sat Dec 01  2018,75,Ky su,My
+"Đinh_Đức_Chung25",Đinh Đức Chung,037567888,https://www.facebook.com/,Fri Nov 30  2018,87,An trom,Lao
+Hồ_Thị_Hùng26,Hồ Thị Hùng,024677588,https://www.youtube.com/,Thu Nov 29  2018,61,Cong nhan,Lao
+Hà_Đức_Chung27,Hà Đức Chung,01648340941,http://kenh14.vn/tv-show.chn,Wed Nov 28  2018,73,Giao vien,Nhat
+"Đinh_Sinh_Việt28",Đinh Sinh Việt,01648340941,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Tue Nov 27  2018,80,Giao vien,Nhat
+Lê_Đức_Hương29,Lê Đức Hương,037567888,https://www.youtube.com/,Mon Nov 26  2018,39,Sinh vien,My
+Nguyễn_Đức_Cương30,Nguyễn Đức Cương,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Nov 25  2018,62,Ky su,Viet Nam
+Lê_Trần_Giang_Hương31,Lê Trần Giang Hương,098856743,https://www.24h.com.vn/bong-da-c48.html,Sat Nov 24  2018,58,An trom,Anh
+"Đinh_Văn_Hoàng32",Đinh Văn Hoàng,024677588,https://xuanhung937556578.wordpress.com/,Fri Nov 23  2018,51,Tho dien,Lao
+"Đinh_Xuân_Chung33",Đinh Xuân Chung,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Thu Nov 22  2018,7,Sinh vien,Nhat
+Trần_Xuân_Chung34,Trần Xuân Chung,024677588,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Nov 21  2018,65,Giao vien,Nhat
+"Đinh_Giang_Việt35",Đinh Giang Việt,024677588,https://linkerpt.com/lap-trinh,Tue Nov 20  2018,33,Cong nhan,Phap
+Lê_Đức_Hoàng36,Lê Đức Hoàng,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Nov 19  2018,5,Tho sua ong nuoc,Viet Nam
+Hà_Sinh_Việt37,Hà Sinh Việt,024677588,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Nov 18  2018,65,Cong nhan,My
+"Đinh_Xuân_Chung38",Đinh Xuân Chung,024677588,http://kenh14.vn/tv-show.chn,Sat Nov 17  2018,86,Tho sua ong nuoc,Nhat
+Lê_Trần_Văn_Cương39,Lê Trần Văn Cương,098856743,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Fri Nov 16  2018,72,Giao vien,My
+"Đinh_Văn_Chung40",Đinh Văn Chung,01648340941,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Nov 15  2018,52,Tho dien,Nhat
+Hà_Giang_Dương41,Hà Giang Dương,024677588,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Nov 14  2018,62,Sinh vien,Duc
+Lê_Trần_Văn_Hùng42,Lê Trần Văn Hùng,0123566789,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Nov 13  2018,39,Tho sua ong nuoc,Nga
+Nguyễn_Đức_Hương43,Nguyễn Đức Hương,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Nov 12  2018,20,Sinh vien,Lao
+Lê_Trần_Thế_Chung44,Lê Trần Thế Chung,037567888,https://www.24h.com.vn/bong-da-c48.html,Sun Nov 11  2018,88,Tho sua ong nuoc,Duc
+"Đinh_Đức_Hùng45",Đinh Đức Hùng,098856743,https://linkerpt.com/lap-trinh,Sat Nov 10  2018,54,Tho sua ong nuoc,Viet Nam
+Nguyễn_Văn_Hoàng46,Nguyễn Văn Hoàng,098856743,https://www.24h.com.vn/bong-da-c48.html,Fri Nov 09  2018,35,Tho sua ong nuoc,Duc
+Trần_Sinh_Hoàng47,Trần Sinh Hoàng,037567888,https://www.24h.com.vn/bong-da-c48.html,Thu Nov 08  2018,75,Giao vien,Lao
+Hồ_Sinh_Hùng48,Hồ Sinh Hùng,024677588,https://linkerpt.com/lap-trinh,Wed Nov 07  2018,11,An trom,Nhat
+Nguyễn_Sinh_Việt49,Nguyễn Sinh Việt,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Tue Nov 06  2018,76,Tho sua ong nuoc,Phap
+Trần_Thị_Hùng50,Trần Thị Hùng,024677588,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Nov 05  2018,85,An trom,Campuchia
+"Đinh_Văn_Dương51",Đinh Văn Dương,024677588,https://www.facebook.com/,Sun Nov 04  2018,22,Sinh vien,Campuchia
+Lê_Thế_Hùng52,Lê Thế Hùng,098856743,http://kenh14.vn/tv-show.chn,Sat Nov 03  2018,0,Tho sua ong nuoc,Campuchia
+Hồ_Văn_Việt53,Hồ Văn Việt,024677588,https://www.24h.com.vn/bong-da-c48.html,Fri Nov 02  2018,35,Giao vien,Lao
+Hà_Văn_Hùng54,Hà Văn Hùng,024677588,https://www.facebook.com/,Thu Nov 01  2018,86,Ky su,Lao
+Lê_Sinh_Hương55,Lê Sinh Hương,098856743,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Oct 31  2018,3,Giao vien,Anh
+Lê_Thế_Hùng56,Lê Thế Hùng,098856743,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Oct 30  2018,26,Tho dien,Duc
+Lê_Thị_Việt57,Lê Thị Việt,0123566789,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Oct 29  2018,80,Tho sua ong nuoc,Nhat
+Lê_Thị_Cương58,Lê Thị Cương,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Oct 28  2018,59,An trom,Nhat
+Hà_Giang_Hương59,Hà Giang Hương,037567888,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Oct 27  2018,64,Tho dien,Duc
+"Đinh_Giang_Dương60",Đinh Giang Dương,0123566789,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Fri Oct 26  2018,44,Tho dien,My
+Hồ_Thị_Chung61,Hồ Thị Chung,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Thu Oct 25  2018,78,Giao vien,Duc
+Hồ_Thị_Cương62,Hồ Thị Cương,0123566789,https://www.facebook.com/,Wed Oct 24  2018,7,Tho dien,Anh
+"Đinh_Xuân_Hùng63",Đinh Xuân Hùng,0123566789,https://www.youtube.com/,Tue Oct 23  2018,85,Ky su,Phap
+Hà_Sinh_Hương64,Hà Sinh Hương,024677588,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Oct 22  2018,71,Cong nhan,Anh
+Lê_Trần_Thị_Hoàng65,Lê Trần Thị Hoàng,01648340941,https://xuanhung937556578.wordpress.com/,Sun Oct 21  2018,7,Ky su,Anh
+Nguyễn_Giang_Việt66,Nguyễn Giang Việt,024677588,https://linkerpt.com/lap-trinh,Sat Oct 20  2018,19,Tho dien,Nga
+"Đinh_Sinh_Chung67",Đinh Sinh Chung,0123566789,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Fri Oct 19  2018,35,An trom,Phap
+Lê_Văn_Hương68,Lê Văn Hương,098856743,https://techtalk.vn/category/dev,Thu Oct 18  2018,41,Tho sua ong nuoc,Duc
+"Đinh_Đức_Chung69",Đinh Đức Chung,037567888,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Oct 17  2018,20,Giao vien,Campuchia
+Trần_Thế_Việt70,Trần Thế Việt,037567888,https://linkerpt.com/lap-trinh,Tue Oct 16  2018,52,Giao vien,Anh
+Trần_Thế_Hương71,Trần Thế Hương,098856743,http://kenh14.vn/tv-show.chn,Mon Oct 15  2018,17,Giao vien,Lao
+Hà_Thị_Hương72,Hà Thị Hương,037567888,https://linkerpt.com/lap-trinh,Sun Oct 14  2018,65,An trom,My
+Trần_Xuân_Mạnh73,Trần Xuân Mạnh,098856743,https://xuanhung937556578.wordpress.com/,Sat Oct 13  2018,83,Tho sua ong nuoc,Duc
+Nguyễn_Đức_Hương74,Nguyễn Đức Hương,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Fri Oct 12  2018,59,Sinh vien,Anh
+Nguyễn_Giang_Hương75,Nguyễn Giang Hương,0123566789,https://www.youtube.com/,Thu Oct 11  2018,57,Cong nhan,Viet Nam
+Nguyễn_Xuân_Hùng76,Nguyễn Xuân Hùng,098856743,https://violympic.vn/bong-da-c48.html,Wed Oct 10  2018,18,Giao vien,Duc
+Nguyễn_Thị_Chung77,Nguyễn Thị Chung,01648340941,https://www.facebook.com/,Tue Oct 09  2018,65,Cong nhan,Anh
+Hà_Sinh_Hương78,Hà Sinh Hương,024677588,https://xuanhung937556578.wordpress.com/,Mon Oct 08  2018,86,Sinh vien,My
+Hà_Thế_Hoàng79,Hà Thế Hoàng,0123566789,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sun Oct 07  2018,81,Tho dien,Lao
+Lê_Trần_Xuân_Chung80,Lê Trần Xuân Chung,098856743,https://www.facebook.com/,Sat Oct 06  2018,86,Ky su,Campuchia
+"Đinh_Sinh_Hương81",Đinh Sinh Hương,01648340941,https://www.youtube.com/,Fri Oct 05  2018,54,Sinh vien,Duc
+Hà_Giang_Cương82,Hà Giang Cương,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Oct 04  2018,17,Ky su,Campuchia
+Lê_Đức_Mạnh83,Lê Đức Mạnh,098856743,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Oct 03  2018,17,Giao vien,Lao
+"Đinh_Văn_Cương84",Đinh Văn Cương,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Oct 02  2018,33,Sinh vien,Campuchia
+Lê_Trần_Thị_Mạnh85,Lê Trần Thị Mạnh,01648340941,http://kenh14.vn/tv-show.chn,Mon Oct 01  2018,24,Sinh vien,My
+Hà_Giang_Cương86,Hà Giang Cương,0123566789,https://techtalk.vn/category/dev,Sun Sep 30  2018,80,Cong nhan,Viet Nam
+Nguyễn_Thế_Cương87,Nguyễn Thế Cương,01648340941,http://kenh14.vn/tv-show.chn,Sat Sep 29  2018,66,Tho dien,Lao
+"Đinh_Thị_Chung88",Đinh Thị Chung,024677588,https://www.24h.com.vn/bong-da-c48.html,Fri Sep 28  2018,72,Tho dien,Anh
+Nguyễn_Đức_Dương89,Nguyễn Đức Dương,01648340941,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Sep 27  2018,76,Tho dien,Nhat
+"Đinh_Thị_Hoàng90",Đinh Thị Hoàng,037567888,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Sep 26  2018,23,Cong nhan,Nhat
+"Đinh_Giang_Cương91",Đinh Giang Cương,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Sep 25  2018,4,Ky su,Viet Nam
+"Đinh_Giang_Việt92",Đinh Giang Việt,024677588,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Mon Sep 24  2018,88,Ky su,Anh
+Nguyễn_Giang_Cương93,Nguyễn Giang Cương,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sun Sep 23  2018,4,Tho sua ong nuoc,Nga
+Lê_Sinh_Hùng94,Lê Sinh Hùng,024677588,https://techtalk.vn/category/dev,Sat Sep 22  2018,0,Ky su,Phap
+Hồ_Sinh_Mạnh95,Hồ Sinh Mạnh,037567888,https://www.youtube.com/,Fri Sep 21  2018,9,Cong nhan,Phap
+"Đinh_Văn_Hùng96",Đinh Văn Hùng,098856743,https://violympic.vn/bong-da-c48.html,Thu Sep 20  2018,19,Cong nhan,Campuchia
+Hà_Đức_Dương97,Hà Đức Dương,024677588,https://linkerpt.com/lap-trinh,Wed Sep 19  2018,55,Tho sua ong nuoc,Anh
+Nguyễn_Thị_Hoàng98,Nguyễn Thị Hoàng,0123566789,https://violympic.vn/bong-da-c48.html,Tue Sep 18  2018,66,Sinh vien,Lao
+"Đinh_Đức_Cương99",Đinh Đức Cương,024677588,https://violympic.vn/bong-da-c48.html,Mon Sep 17  2018,27,Sinh vien,Lao
+Nguyễn_Thế_Việt100,Nguyễn Thế Việt,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sun Sep 16  2018,56,Giao vien,Lao
+Nguyễn_Đức_Việt101,Nguyễn Đức Việt,0123566789,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sat Sep 15  2018,38,Giao vien,Phap
+Hồ_Văn_Cương102,Hồ Văn Cương,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Fri Sep 14  2018,36,An trom,Nga
+"Đinh_Văn_Việt103",Đinh Văn Việt,0123566789,https://www.24h.com.vn/bong-da-c48.html,Thu Sep 13  2018,88,Cong nhan,Phap
+Hà_Giang_Mạnh104,Hà Giang Mạnh,098856743,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Wed Sep 12  2018,87,Sinh vien,Duc
+Hồ_Sinh_Cương105,Hồ Sinh Cương,0123566789,https://violympic.vn/bong-da-c48.html,Tue Sep 11  2018,32,Tho sua ong nuoc,Nhat
+"Đinh_Thế_Mạnh106",Đinh Thế Mạnh,098856743,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Mon Sep 10  2018,62,Ky su,Nhat
+Hồ_Thị_Dương107,Hồ Thị Dương,024677588,http://kenh14.vn/tv-show.chn,Sun Sep 09  2018,7,Giao vien,Nhat
+Nguyễn_Đức_Dương108,Nguyễn Đức Dương,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sat Sep 08  2018,11,Tho sua ong nuoc,Lao
+Nguyễn_Thế_Hương109,Nguyễn Thế Hương,098856743,https://www.youtube.com/,Fri Sep 07  2018,42,An trom,Duc
+Nguyễn_Thị_Hoàng110,Nguyễn Thị Hoàng,098856743,http://kenh14.vn/tv-show.chn,Thu Sep 06  2018,76,Tho sua ong nuoc,Duc
+Lê_Trần_Xuân_Hùng111,Lê Trần Xuân Hùng,0123566789,https://techtalk.vn/category/dev,Wed Sep 05  2018,43,Ky su,Campuchia
+Nguyễn_Đức_Dương112,Nguyễn Đức Dương,024677588,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Sep 04  2018,54,Sinh vien,Duc
+"Đinh_Giang_Hương113",Đinh Giang Hương,01648340941,https://violympic.vn/bong-da-c48.html,Mon Sep 03  2018,18,Sinh vien,Nga
+Hồ_Văn_Hoàng114,Hồ Văn Hoàng,098856743,https://violympic.vn/bong-da-c48.html,Sun Sep 02  2018,81,Giao vien,Nga
+Lê_Trần_Thị_Hương115,Lê Trần Thị Hương,037567888,http://kenh14.vn/tv-show.chn,Sat Sep 01  2018,71,Ky su,Viet Nam
+Nguyễn_Thị_Cương116,Nguyễn Thị Cương,0123566789,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Fri Aug 31  2018,56,Ky su,Campuchia
+Nguyễn_Đức_Chung117,Nguyễn Đức Chung,024677588,https://www.24h.com.vn/bong-da-c48.html,Thu Aug 30  2018,53,Tho dien,Viet Nam
+"Đinh_Văn_Việt118",Đinh Văn Việt,037567888,https://www.24h.com.vn/bong-da-c48.html,Wed Aug 29  2018,45,Giao vien,My
+"Đinh_Giang_Hoàng119",Đinh Giang Hoàng,0123566789,https://violympic.vn/bong-da-c48.html,Tue Aug 28  2018,80,Tho dien,Anh
+Nguyễn_Thế_Mạnh120,Nguyễn Thế Mạnh,01648340941,https://techtalk.vn/category/dev,Mon Aug 27  2018,82,Cong nhan,Duc
+Trần_Xuân_Cương121,Trần Xuân Cương,024677588,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Aug 26  2018,60,Ky su,My
+Lê_Trần_Sinh_Dương122,Lê Trần Sinh Dương,01648340941,https://techtalk.vn/category/dev,Sat Aug 25  2018,23,Tho sua ong nuoc,Nhat
+Nguyễn_Thế_Dương123,Nguyễn Thế Dương,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Aug 24  2018,69,Ky su,Viet Nam
+Hà_Đức_Hùng124,Hà Đức Hùng,037567888,http://kenh14.vn/tv-show.chn,Thu Aug 23  2018,41,An trom,Lao
+Hà_Sinh_Cương125,Hà Sinh Cương,0123566789,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Aug 22  2018,73,Ky su,My
+Nguyễn_Đức_Cương126,Nguyễn Đức Cương,037567888,http://kenh14.vn/tv-show.chn,Tue Aug 21  2018,18,Tho dien,Duc
+Trần_Thế_Hoàng127,Trần Thế Hoàng,024677588,https://linkerpt.com/lap-trinh,Mon Aug 20  2018,30,Sinh vien,Campuchia
+Lê_Trần_Thị_Mạnh128,Lê Trần Thị Mạnh,037567888,https://www.24h.com.vn/bong-da-c48.html,Sun Aug 19  2018,26,Ky su,Duc
+Lê_Văn_Hùng129,Lê Văn Hùng,01648340941,https://violympic.vn/bong-da-c48.html,Sat Aug 18  2018,40,Sinh vien,My
+Hồ_Sinh_Hương130,Hồ Sinh Hương,01648340941,https://www.facebook.com/,Fri Aug 17  2018,54,Cong nhan,Duc
+Nguyễn_Thị_Hùng131,Nguyễn Thị Hùng,01648340941,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Aug 16  2018,40,Sinh vien,Lao
+Hồ_Giang_Chung132,Hồ Giang Chung,037567888,https://linkerpt.com/lap-trinh,Wed Aug 15  2018,24,Ky su,Duc
+Trần_Sinh_Hùng133,Trần Sinh Hùng,024677588,https://violympic.vn/bong-da-c48.html,Tue Aug 14  2018,8,An trom,Phap
+Lê_Đức_Mạnh134,Lê Đức Mạnh,01648340941,https://www.facebook.com/,Mon Aug 13  2018,62,Tho dien,Duc
+Trần_Sinh_Hương135,Trần Sinh Hương,098856743,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Aug 12  2018,55,Tho sua ong nuoc,Nhat
+Lê_Thế_Hùng136,Lê Thế Hùng,0123566789,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Aug 11  2018,74,Ky su,Viet Nam
+"Đinh_Sinh_Hùng137",Đinh Sinh Hùng,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Fri Aug 10  2018,38,Ky su,My
+Hồ_Sinh_Hùng138,Hồ Sinh Hùng,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Aug 09  2018,78,Cong nhan,My
+Nguyễn_Đức_Cương139,Nguyễn Đức Cương,037567888,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Aug 08  2018,56,Tho dien,Anh
+Trần_Sinh_Hùng140,Trần Sinh Hùng,098856743,https://techtalk.vn/category/dev,Tue Aug 07  2018,50,Cong nhan,Campuchia
+"Đinh_Xuân_Dương141",Đinh Xuân Dương,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Aug 06  2018,35,Cong nhan,Phap
+"Đinh_Giang_Hương142",Đinh Giang Hương,024677588,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Aug 05  2018,13,Cong nhan,Nhat
+Trần_Xuân_Chung143,Trần Xuân Chung,0123566789,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sat Aug 04  2018,67,An trom,Anh
+"Đinh_Thế_Hoàng144",Đinh Thế Hoàng,024677588,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Fri Aug 03  2018,31,Giao vien,Campuchia
+Hồ_Văn_Hoàng145,Hồ Văn Hoàng,0123566789,http://kenh14.vn/tv-show.chn,Thu Aug 02  2018,45,Giao vien,Lao
+Nguyễn_Đức_Hùng146,Nguyễn Đức Hùng,024677588,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Wed Aug 01  2018,18,Sinh vien,Phap
+Lê_Xuân_Mạnh147,Lê Xuân Mạnh,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Jul 31  2018,31,Tho dien,My
+Lê_Trần_Giang_Dương148,Lê Trần Giang Dương,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Jul 30  2018,75,Cong nhan,Campuchia
+Nguyễn_Giang_Cương149,Nguyễn Giang Cương,01648340941,https://xuanhung937556578.wordpress.com/,Sun Jul 29  2018,2,Ky su,Nhat
+Hồ_Thị_Chung150,Hồ Thị Chung,098856743,https://www.facebook.com/,Sat Jul 28  2018,19,Ky su,Viet Nam
+"Đinh_Thị_Dương151",Đinh Thị Dương,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Fri Jul 27  2018,75,Cong nhan,My
+Nguyễn_Đức_Chung152,Nguyễn Đức Chung,024677588,https://www.24h.com.vn/bong-da-c48.html,Thu Jul 26  2018,28,Ky su,Phap
+"Đinh_Văn_Dương153",Đinh Văn Dương,024677588,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Jul 25  2018,78,An trom,Phap
+Trần_Văn_Hùng154,Trần Văn Hùng,037567888,https://linkerpt.com/lap-trinh,Tue Jul 24  2018,16,Tho sua ong nuoc,Nhat
+"Đinh_Thế_Hoàng155",Đinh Thế Hoàng,01648340941,https://www.youtube.com/,Mon Jul 23  2018,57,Tho dien,Lao
+"Đinh_Sinh_Mạnh156",Đinh Sinh Mạnh,01648340941,https://techtalk.vn/category/dev,Sun Jul 22  2018,80,Tho dien,My
+"Đinh_Xuân_Cương157",Đinh Xuân Cương,037567888,https://techtalk.vn/category/dev,Sat Jul 21  2018,15,Cong nhan,Phap
+Lê_Thế_Việt158,Lê Thế Việt,024677588,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Fri Jul 20  2018,12,Ky su,Nhat
+Hà_Đức_Mạnh159,Hà Đức Mạnh,098856743,https://www.youtube.com/,Thu Jul 19  2018,59,Cong nhan,Phap
+Hồ_Sinh_Việt160,Hồ Sinh Việt,098856743,https://linkerpt.com/lap-trinh,Wed Jul 18  2018,87,Cong nhan,Nga
+Hà_Xuân_Chung161,Hà Xuân Chung,037567888,https://www.youtube.com/,Tue Jul 17  2018,74,Cong nhan,Phap
+Trần_Giang_Việt162,Trần Giang Việt,0123566789,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Jul 16  2018,22,An trom,My
+Nguyễn_Đức_Việt163,Nguyễn Đức Việt,098856743,https://violympic.vn/bong-da-c48.html,Sun Jul 15  2018,2,Ky su,Nhat
+Lê_Trần_Xuân_Chung164,Lê Trần Xuân Chung,037567888,http://kenh14.vn/tv-show.chn,Sat Jul 14  2018,53,Cong nhan,Campuchia
+Nguyễn_Văn_Hương165,Nguyễn Văn Hương,098856743,https://violympic.vn/bong-da-c48.html,Fri Jul 13  2018,24,Sinh vien,Phap
+Hồ_Giang_Mạnh166,Hồ Giang Mạnh,024677588,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Jul 12  2018,52,Tho sua ong nuoc,Nga
+Hồ_Đức_Việt167,Hồ Đức Việt,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Jul 11  2018,78,An trom,My
+"Đinh_Thế_Hùng168",Đinh Thế Hùng,037567888,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Jul 10  2018,77,Ky su,Duc
+"Đinh_Xuân_Chung169",Đinh Xuân Chung,098856743,https://violympic.vn/bong-da-c48.html,Mon Jul 09  2018,75,Giao vien,Anh
+Trần_Giang_Hương170,Trần Giang Hương,098856743,https://techtalk.vn/category/dev,Sun Jul 08  2018,52,An trom,Duc
+Hồ_Thế_Hương171,Hồ Thế Hương,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sat Jul 07  2018,10,Ky su,My
+Nguyễn_Xuân_Hoàng172,Nguyễn Xuân Hoàng,024677588,https://xuanhung937556578.wordpress.com/,Fri Jul 06  2018,51,Giao vien,My
+Lê_Sinh_Hùng173,Lê Sinh Hùng,098856743,https://linkerpt.com/lap-trinh,Thu Jul 05  2018,12,Tho dien,Nga
+Hà_Xuân_Mạnh174,Hà Xuân Mạnh,037567888,https://xuanhung937556578.wordpress.com/,Wed Jul 04  2018,51,An trom,Duc
+Nguyễn_Xuân_Hương175,Nguyễn Xuân Hương,037567888,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Jul 03  2018,22,An trom,Viet Nam
+Lê_Trần_Văn_Hùng176,Lê Trần Văn Hùng,01648340941,https://www.24h.com.vn/bong-da-c48.html,Mon Jul 02  2018,22,An trom,Viet Nam
+Hồ_Đức_Hùng177,Hồ Đức Hùng,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Jul 01  2018,32,An trom,Campuchia
+Nguyễn_Đức_Hùng178,Nguyễn Đức Hùng,024677588,https://linkerpt.com/lap-trinh,Sat Jun 30  2018,1,Ky su,Lao
+Lê_Xuân_Hoàng179,Lê Xuân Hoàng,01648340941,http://kenh14.vn/tv-show.chn,Fri Jun 29  2018,22,Giao vien,Campuchia
+Lê_Trần_Thị_Mạnh180,Lê Trần Thị Mạnh,01648340941,http://kenh14.vn/tv-show.chn,Thu Jun 28  2018,0,Ky su,Phap
+Hà_Xuân_Dương181,Hà Xuân Dương,01648340941,https://violympic.vn/bong-da-c48.html,Wed Jun 27  2018,81,Cong nhan,Lao
+"Đinh_Đức_Chung182",Đinh Đức Chung,01648340941,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Jun 26  2018,15,Tho dien,Phap
+Hà_Đức_Dương183,Hà Đức Dương,0123566789,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Mon Jun 25  2018,28,Sinh vien,Duc
+Nguyễn_Thị_Cương184,Nguyễn Thị Cương,024677588,https://www.youtube.com/,Sun Jun 24  2018,71,Giao vien,Lao
+Hà_Giang_Mạnh185,Hà Giang Mạnh,0123566789,https://xuanhung937556578.wordpress.com/,Sat Jun 23  2018,51,Sinh vien,My
+"Đinh_Đức_Dương186",Đinh Đức Dương,01648340941,https://www.facebook.com/,Fri Jun 22  2018,87,Giao vien,Lao
+"Đinh_Sinh_Việt187",Đinh Sinh Việt,037567888,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Jun 21  2018,89,Cong nhan,Nga
+Hồ_Sinh_Hoàng188,Hồ Sinh Hoàng,024677588,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Jun 20  2018,53,Sinh vien,Lao
+"Đinh_Thế_Dương189",Đinh Thế Dương,037567888,https://violympic.vn/bong-da-c48.html,Tue Jun 19  2018,84,Sinh vien,Anh
+"Đinh_Thế_Hùng190",Đinh Thế Hùng,037567888,http://kenh14.vn/tv-show.chn,Mon Jun 18  2018,30,Tho dien,Anh
+Nguyễn_Sinh_Hoàng191,Nguyễn Sinh Hoàng,024677588,https://linkerpt.com/lap-trinh,Sun Jun 17  2018,75,Ky su,Anh
+Trần_Xuân_Chung192,Trần Xuân Chung,01648340941,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sat Jun 16  2018,60,An trom,Viet Nam
+Hà_Đức_Việt193,Hà Đức Việt,024677588,https://techtalk.vn/category/dev,Fri Jun 15  2018,18,An trom,Lao
+Hồ_Đức_Việt194,Hồ Đức Việt,037567888,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Jun 14  2018,52,Giao vien,Campuchia
+Hồ_Sinh_Việt195,Hồ Sinh Việt,024677588,https://www.24h.com.vn/bong-da-c48.html,Wed Jun 13  2018,30,An trom,Nga
+Lê_Thị_Cương196,Lê Thị Cương,098856743,http://kenh14.vn/tv-show.chn,Tue Jun 12  2018,81,Giao vien,Nga
+Nguyễn_Thị_Mạnh197,Nguyễn Thị Mạnh,01648340941,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Mon Jun 11  2018,6,Cong nhan,Nhat
+Nguyễn_Thế_Hương198,Nguyễn Thế Hương,024677588,https://techtalk.vn/category/dev,Sun Jun 10  2018,83,Giao vien,Lao
+Hồ_Văn_Dương199,Hồ Văn Dương,024677588,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Jun 09  2018,78,Ky su,Nga

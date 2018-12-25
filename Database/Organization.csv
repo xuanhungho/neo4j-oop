@@ -1,0 +1,201 @@
+DinhDanh:ID(Organization),Nhan,Mota,LinkTrichRut,ThoiGianTrichRut,TruSo
+BKSoftware0,BKSoftware,phone,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Dec 25  2018,Toà nhà FPT Cầu Giấy
+Apple1,Apple,IT,https://linkerpt.com/lap-trinh,Mon Dec 24  2018,Time City
+FPT2,FPT,car,https://linkerpt.com/lap-trinh,Sun Dec 23  2018,Hồ Thiên Nga
+FPT3,FPT,car,https://techtalk.vn/category/dev,Sat Dec 22  2018,Time City
+Grab4,Grab,taxi,https://www.24h.com.vn/bong-da-c48.html,Fri Dec 21  2018,Toà nhà FPT Cầu Giấy
+Bphone5,Bphone,software,https://violympic.vn/bong-da-c48.html,Thu Dec 20  2018,Trụ sở Apple Califonia
+Bphone6,Bphone,phone,https://www.facebook.com/,Wed Dec 19  2018,Cung văn hoá hữa nghị Việt Xô
+Apple7,Apple,taxi,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Dec 18  2018,Time City
+VinFast8,VinFast,taxi,http://kenh14.vn/tv-show.chn,Mon Dec 17  2018,Time City
+Bphone9,Bphone,phone,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Dec 16  2018,Toà nhà FPT Cầu Giấy
+Bphone10,Bphone,car,https://xuanhung937556578.wordpress.com/,Sat Dec 15  2018,Lầu năm góc
+Apple11,Apple,taxi,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Fri Dec 14  2018,Thư viện Tạ Quang Bửu
+Apple12,Apple,phone,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Thu Dec 13  2018,Lầu năm góc
+FPT13,FPT,phone,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Dec 12  2018,Time City
+BKSoftware14,BKSoftware,car,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Dec 11  2018,Toà nhà FPT Cầu Giấy
+VinFast15,VinFast,phone,http://kenh14.vn/tv-show.chn,Mon Dec 10  2018,Time City
+BKSoftware16,BKSoftware,software,https://violympic.vn/bong-da-c48.html,Sun Dec 09  2018,Hồ Gươm
+Apple17,Apple,phone,http://kenh14.vn/tv-show.chn,Sat Dec 08  2018,Time City
+Foody18,Foody,software,https://www.facebook.com/,Fri Dec 07  2018,Time City
+Bphone19,Bphone,phone,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Dec 06  2018,Hồ Gươm
+Apple20,Apple,Transporting,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Wed Dec 05  2018,Hồ Thiên Nga
+Foody21,Foody,IT,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Dec 04  2018,Thư viện Tạ Quang Bửu
+Apple22,Apple,IT,http://kenh14.vn/tv-show.chn,Mon Dec 03  2018,Cung văn hoá hữa nghị Việt Xô
+FPT23,FPT,taxi,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sun Dec 02  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast24,VinFast,software,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Dec 01  2018,Hồ Gươm
+FPT25,FPT,Transporting,http://kenh14.vn/tv-show.chn,Fri Nov 30  2018,Hồ Thiên Nga
+BKSoftware26,BKSoftware,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Nov 29  2018,Cung văn hoá hữa nghị Việt Xô
+BKSoftware27,BKSoftware,phone,https://www.24h.com.vn/bong-da-c48.html,Wed Nov 28  2018,Cung văn hoá hữa nghị Việt Xô
+Apple28,Apple,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Tue Nov 27  2018,Thư viện Tạ Quang Bửu
+Apple29,Apple,Transporting,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Mon Nov 26  2018,Trụ sở Apple Califonia
+Foody30,Foody,car,http://kenh14.vn/tv-show.chn,Sun Nov 25  2018,Thư viện Tạ Quang Bửu
+Foody31,Foody,IT,https://www.facebook.com/,Sat Nov 24  2018,Time City
+Foody32,Foody,software,https://www.24h.com.vn/bong-da-c48.html,Fri Nov 23  2018,Lầu năm góc
+Foody33,Foody,taxi,https://violympic.vn/bong-da-c48.html,Thu Nov 22  2018,Hồ Gươm
+Apple34,Apple,Transporting,https://techtalk.vn/category/dev,Wed Nov 21  2018,Time City
+BKSoftware35,BKSoftware,taxi,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Nov 20  2018,Cung văn hoá hữa nghị Việt Xô
+BKSoftware36,BKSoftware,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Mon Nov 19  2018,Hồ Thiên Nga
+Bphone37,Bphone,phone,https://www.24h.com.vn/bong-da-c48.html,Sun Nov 18  2018,Thư viện Tạ Quang Bửu
+Apple38,Apple,IT,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sat Nov 17  2018,Toà nhà FPT Cầu Giấy
+Apple39,Apple,phone,https://violympic.vn/bong-da-c48.html,Fri Nov 16  2018,Hồ Thiên Nga
+Bphone40,Bphone,taxi,https://techtalk.vn/category/dev,Thu Nov 15  2018,Trụ sở Apple Califonia
+Foody41,Foody,phone,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Wed Nov 14  2018,Hồ Gươm
+VinFast42,VinFast,software,https://www.24h.com.vn/bong-da-c48.html,Tue Nov 13  2018,Thư viện Tạ Quang Bửu
+Bphone43,Bphone,car,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Mon Nov 12  2018,Lầu năm góc
+BKSoftware44,BKSoftware,taxi,https://techtalk.vn/category/dev,Sun Nov 11  2018,Time City
+FPT45,FPT,IT,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Nov 10  2018,Time City
+Grab46,Grab,IT,https://techtalk.vn/category/dev,Fri Nov 09  2018,Lầu năm góc
+Foody47,Foody,phone,https://www.youtube.com/,Thu Nov 08  2018,Cung văn hoá hữa nghị Việt Xô
+Apple48,Apple,taxi,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Nov 07  2018,Lầu năm góc
+Grab49,Grab,taxi,https://techtalk.vn/category/dev,Tue Nov 06  2018,Trụ sở Apple Califonia
+VinFast50,VinFast,phone,https://www.24h.com.vn/bong-da-c48.html,Mon Nov 05  2018,Hồ Thiên Nga
+Bphone51,Bphone,phone,https://www.youtube.com/,Sun Nov 04  2018,Toà nhà FPT Cầu Giấy
+Bphone52,Bphone,car,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Nov 03  2018,Lầu năm góc
+FPT53,FPT,car,http://kenh14.vn/tv-show.chn,Fri Nov 02  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast54,VinFast,car,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Nov 01  2018,Hồ Thiên Nga
+VinFast55,VinFast,taxi,http://kenh14.vn/tv-show.chn,Wed Oct 31  2018,Toà nhà FPT Cầu Giấy
+VinFast56,VinFast,phone,https://violympic.vn/bong-da-c48.html,Tue Oct 30  2018,Thư viện Tạ Quang Bửu
+VinFast57,VinFast,taxi,https://techtalk.vn/category/dev,Mon Oct 29  2018,Trụ sở Apple Califonia
+Grab58,Grab,taxi,http://kenh14.vn/tv-show.chn,Sun Oct 28  2018,Hồ Thiên Nga
+Grab59,Grab,phone,https://linkerpt.com/lap-trinh,Sat Oct 27  2018,Toà nhà FPT Cầu Giấy
+VinFast60,VinFast,Transporting,https://xuanhung937556578.wordpress.com/,Fri Oct 26  2018,Time City
+Bphone61,Bphone,software,https://violympic.vn/bong-da-c48.html,Thu Oct 25  2018,Hồ Thiên Nga
+Apple62,Apple,IT,https://www.youtube.com/,Wed Oct 24  2018,Trụ sở Apple Califonia
+Foody63,Foody,Transporting,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Oct 23  2018,Hồ Gươm
+Apple64,Apple,phone,https://violympic.vn/bong-da-c48.html,Mon Oct 22  2018,Lầu năm góc
+BKSoftware65,BKSoftware,IT,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Oct 21  2018,Time City
+Bphone66,Bphone,IT,http://kenh14.vn/tv-show.chn,Sat Oct 20  2018,Trụ sở Apple Califonia
+VinFast67,VinFast,IT,https://www.24h.com.vn/bong-da-c48.html,Fri Oct 19  2018,Hồ Gươm
+Foody68,Foody,Transporting,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Thu Oct 18  2018,Lầu năm góc
+FPT69,FPT,taxi,https://www.facebook.com/,Wed Oct 17  2018,Toà nhà FPT Cầu Giấy
+VinFast70,VinFast,software,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Oct 16  2018,Cung văn hoá hữa nghị Việt Xô
+Bphone71,Bphone,phone,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Oct 15  2018,Trụ sở Apple Califonia
+Grab72,Grab,car,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sun Oct 14  2018,Thư viện Tạ Quang Bửu
+Apple73,Apple,phone,http://kenh14.vn/tv-show.chn,Sat Oct 13  2018,Trụ sở Apple Califonia
+Apple74,Apple,software,https://www.24h.com.vn/bong-da-c48.html,Fri Oct 12  2018,Thư viện Tạ Quang Bửu
+BKSoftware75,BKSoftware,Transporting,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Oct 11  2018,Toà nhà FPT Cầu Giấy
+VinFast76,VinFast,IT,https://linkerpt.com/lap-trinh,Wed Oct 10  2018,Lầu năm góc
+VinFast77,VinFast,Transporting,https://xuanhung937556578.wordpress.com/,Tue Oct 09  2018,Hồ Thiên Nga
+Apple78,Apple,taxi,https://www.24h.com.vn/bong-da-c48.html,Mon Oct 08  2018,Thư viện Tạ Quang Bửu
+FPT79,FPT,phone,https://techtalk.vn/category/dev,Sun Oct 07  2018,Hồ Gươm
+FPT80,FPT,phone,https://xuanhung937556578.wordpress.com/,Sat Oct 06  2018,Thư viện Tạ Quang Bửu
+Grab81,Grab,taxi,https://linkerpt.com/lap-trinh,Fri Oct 05  2018,Hồ Gươm
+FPT82,FPT,IT,https://techtalk.vn/category/dev,Thu Oct 04  2018,Thư viện Tạ Quang Bửu
+Foody83,Foody,Transporting,https://www.facebook.com/,Wed Oct 03  2018,Time City
+Bphone84,Bphone,phone,https://linkerpt.com/lap-trinh,Tue Oct 02  2018,Thư viện Tạ Quang Bửu
+Foody85,Foody,IT,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Oct 01  2018,Thư viện Tạ Quang Bửu
+BKSoftware86,BKSoftware,phone,https://techtalk.vn/category/dev,Sun Sep 30  2018,Trụ sở Apple Califonia
+Bphone87,Bphone,phone,https://www.facebook.com/,Sat Sep 29  2018,Hồ Gươm
+Bphone88,Bphone,car,https://techtalk.vn/category/dev,Fri Sep 28  2018,Time City
+VinFast89,VinFast,taxi,https://violympic.vn/bong-da-c48.html,Thu Sep 27  2018,Trụ sở Apple Califonia
+Bphone90,Bphone,car,http://kenh14.vn/tv-show.chn,Wed Sep 26  2018,Cung văn hoá hữa nghị Việt Xô
+BKSoftware91,BKSoftware,phone,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Tue Sep 25  2018,Trụ sở Apple Califonia
+Foody92,Foody,Transporting,https://www.24h.com.vn/bong-da-c48.html,Mon Sep 24  2018,Time City
+FPT93,FPT,phone,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sun Sep 23  2018,Toà nhà FPT Cầu Giấy
+Grab94,Grab,Transporting,https://violympic.vn/bong-da-c48.html,Sat Sep 22  2018,Cung văn hoá hữa nghị Việt Xô
+Apple95,Apple,phone,https://techtalk.vn/category/dev,Fri Sep 21  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast96,VinFast,phone,https://linkerpt.com/lap-trinh,Thu Sep 20  2018,Cung văn hoá hữa nghị Việt Xô
+Grab97,Grab,taxi,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Sep 19  2018,Lầu năm góc
+Grab98,Grab,phone,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Sep 18  2018,Cung văn hoá hữa nghị Việt Xô
+Grab99,Grab,IT,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Sep 17  2018,Hồ Thiên Nga
+VinFast100,VinFast,Transporting,https://www.youtube.com/,Sun Sep 16  2018,Hồ Gươm
+Bphone101,Bphone,taxi,https://violympic.vn/bong-da-c48.html,Sat Sep 15  2018,Trụ sở Apple Califonia
+BKSoftware102,BKSoftware,software,https://www.youtube.com/,Fri Sep 14  2018,Cung văn hoá hữa nghị Việt Xô
+Grab103,Grab,Transporting,https://www.24h.com.vn/bong-da-c48.html,Thu Sep 13  2018,Hồ Gươm
+Grab104,Grab,phone,https://www.youtube.com/,Wed Sep 12  2018,Hồ Thiên Nga
+Apple105,Apple,IT,https://www.youtube.com/,Tue Sep 11  2018,Time City
+Apple106,Apple,phone,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Sep 10  2018,Thư viện Tạ Quang Bửu
+Bphone107,Bphone,phone,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sun Sep 09  2018,Cung văn hoá hữa nghị Việt Xô
+Apple108,Apple,Transporting,https://xuanhung937556578.wordpress.com/,Sat Sep 08  2018,Thư viện Tạ Quang Bửu
+Apple109,Apple,phone,https://techtalk.vn/category/dev,Fri Sep 07  2018,Lầu năm góc
+Foody110,Foody,Transporting,https://www.24h.com.vn/bong-da-c48.html,Thu Sep 06  2018,Lầu năm góc
+VinFast111,VinFast,phone,https://linkerpt.com/lap-trinh,Wed Sep 05  2018,Time City
+Apple112,Apple,car,https://linkerpt.com/lap-trinh,Tue Sep 04  2018,Lầu năm góc
+Grab113,Grab,car,https://www.24h.com.vn/bong-da-c48.html,Mon Sep 03  2018,Thư viện Tạ Quang Bửu
+Apple114,Apple,phone,https://techtalk.vn/category/dev,Sun Sep 02  2018,Trụ sở Apple Califonia
+VinFast115,VinFast,IT,https://www.facebook.com/,Sat Sep 01  2018,Trụ sở Apple Califonia
+VinFast116,VinFast,IT,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Fri Aug 31  2018,Trụ sở Apple Califonia
+Apple117,Apple,taxi,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Thu Aug 30  2018,Hồ Thiên Nga
+Bphone118,Bphone,Transporting,https://violympic.vn/bong-da-c48.html,Wed Aug 29  2018,Toà nhà FPT Cầu Giấy
+Grab119,Grab,taxi,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Aug 28  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast120,VinFast,taxi,https://www.facebook.com/,Mon Aug 27  2018,Cung văn hoá hữa nghị Việt Xô
+Foody121,Foody,phone,https://www.youtube.com/,Sun Aug 26  2018,Time City
+Grab122,Grab,phone,https://www.youtube.com/,Sat Aug 25  2018,Toà nhà FPT Cầu Giấy
+Foody123,Foody,software,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Fri Aug 24  2018,Thư viện Tạ Quang Bửu
+Grab124,Grab,software,http://kenh14.vn/tv-show.chn,Thu Aug 23  2018,Hồ Thiên Nga
+Grab125,Grab,Transporting,https://techtalk.vn/category/dev,Wed Aug 22  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast126,VinFast,IT,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Tue Aug 21  2018,Cung văn hoá hữa nghị Việt Xô
+Grab127,Grab,phone,https://techtalk.vn/category/dev,Mon Aug 20  2018,Trụ sở Apple Califonia
+Apple128,Apple,phone,https://violympic.vn/bong-da-c48.html,Sun Aug 19  2018,Cung văn hoá hữa nghị Việt Xô
+Apple129,Apple,IT,https://www.24h.com.vn/bong-da-c48.html,Sat Aug 18  2018,Toà nhà FPT Cầu Giấy
+Grab130,Grab,phone,http://kenh14.vn/tv-show.chn,Fri Aug 17  2018,Hồ Gươm
+Apple131,Apple,phone,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Aug 16  2018,Hồ Thiên Nga
+VinFast132,VinFast,software,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Aug 15  2018,Time City
+VinFast133,VinFast,IT,http://kenh14.vn/tv-show.chn,Tue Aug 14  2018,Hồ Thiên Nga
+VinFast134,VinFast,taxi,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Mon Aug 13  2018,Trụ sở Apple Califonia
+Grab135,Grab,phone,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sun Aug 12  2018,Thư viện Tạ Quang Bửu
+Bphone136,Bphone,software,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sat Aug 11  2018,Toà nhà FPT Cầu Giấy
+FPT137,FPT,car,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Fri Aug 10  2018,Toà nhà FPT Cầu Giấy
+FPT138,FPT,phone,https://www.youtube.com/,Thu Aug 09  2018,Toà nhà FPT Cầu Giấy
+Grab139,Grab,Transporting,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Wed Aug 08  2018,Hồ Thiên Nga
+Apple140,Apple,Transporting,https://linkerpt.com/lap-trinh,Tue Aug 07  2018,Toà nhà FPT Cầu Giấy
+FPT141,FPT,IT,https://linkerpt.com/lap-trinh,Mon Aug 06  2018,Trụ sở Apple Califonia
+Grab142,Grab,Transporting,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sun Aug 05  2018,Cung văn hoá hữa nghị Việt Xô
+Grab143,Grab,car,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Aug 04  2018,Lầu năm góc
+Bphone144,Bphone,IT,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Fri Aug 03  2018,Cung văn hoá hữa nghị Việt Xô
+Bphone145,Bphone,phone,https://xuanhung937556578.wordpress.com/,Thu Aug 02  2018,Toà nhà FPT Cầu Giấy
+Bphone146,Bphone,phone,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Aug 01  2018,Cung văn hoá hữa nghị Việt Xô
+Apple147,Apple,phone,https://www.24h.com.vn/bong-da-c48.html,Tue Jul 31  2018,Trụ sở Apple Califonia
+Apple148,Apple,phone,https://www.youtube.com/,Mon Jul 30  2018,Time City
+Apple149,Apple,software,https://xuanhung937556578.wordpress.com/,Sun Jul 29  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast150,VinFast,car,https://linkerpt.com/lap-trinh,Sat Jul 28  2018,Cung văn hoá hữa nghị Việt Xô
+FPT151,FPT,taxi,https://techtalk.vn/category/dev,Fri Jul 27  2018,Trụ sở Apple Califonia
+Apple152,Apple,IT,https://violympic.vn/bong-da-c48.html,Thu Jul 26  2018,Trụ sở Apple Califonia
+Foody153,Foody,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Jul 25  2018,Thư viện Tạ Quang Bửu
+VinFast154,VinFast,taxi,https://xuanhung937556578.wordpress.com/,Tue Jul 24  2018,Trụ sở Apple Califonia
+VinFast155,VinFast,phone,https://www.youtube.com/,Mon Jul 23  2018,Time City
+Bphone156,Bphone,phone,https://www.facebook.com/,Sun Jul 22  2018,Cung văn hoá hữa nghị Việt Xô
+Grab157,Grab,phone,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Sat Jul 21  2018,Trụ sở Apple Califonia
+Foody158,Foody,phone,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Jul 20  2018,Hồ Thiên Nga
+VinFast159,VinFast,Transporting,https://techtalk.vn/category/dev,Thu Jul 19  2018,Hồ Thiên Nga
+Grab160,Grab,taxi,https://www.24h.com.vn/bong-da-c48.html,Wed Jul 18  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast161,VinFast,IT,https://xuanhung937556578.wordpress.com/,Tue Jul 17  2018,Lầu năm góc
+Foody162,Foody,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Mon Jul 16  2018,Hồ Thiên Nga
+Bphone163,Bphone,IT,https://linkerpt.com/lap-trinh,Sun Jul 15  2018,Thư viện Tạ Quang Bửu
+Bphone164,Bphone,phone,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sat Jul 14  2018,Toà nhà FPT Cầu Giấy
+VinFast165,VinFast,IT,https://linkerpt.com/lap-trinh,Fri Jul 13  2018,Cung văn hoá hữa nghị Việt Xô
+BKSoftware166,BKSoftware,phone,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Thu Jul 12  2018,Toà nhà FPT Cầu Giấy
+Foody167,Foody,phone,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Jul 11  2018,Hồ Gươm
+Grab168,Grab,phone,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Tue Jul 10  2018,Lầu năm góc
+FPT169,FPT,phone,https://www.facebook.com/,Mon Jul 09  2018,Trụ sở Apple Califonia
+Bphone170,Bphone,phone,https://xuanhung937556578.wordpress.com/,Sun Jul 08  2018,Hồ Gươm
+Apple171,Apple,taxi,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Sat Jul 07  2018,Trụ sở Apple Califonia
+Foody172,Foody,Transporting,https://www.24h.com.vn/bong-da-c48.html,Fri Jul 06  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast173,VinFast,IT,https://techtalk.vn/category/dev,Thu Jul 05  2018,Cung văn hoá hữa nghị Việt Xô
+Grab174,Grab,phone,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Wed Jul 04  2018,Lầu năm góc
+Grab175,Grab,IT,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Tue Jul 03  2018,Toà nhà FPT Cầu Giấy
+Bphone176,Bphone,phone,https://linkerpt.com/lap-trinh,Mon Jul 02  2018,Time City
+VinFast177,VinFast,IT,https://techtalk.vn/category/dev,Sun Jul 01  2018,Trụ sở Apple Califonia
+Grab178,Grab,phone,https://linkerpt.com/lap-trinh,Sat Jun 30  2018,Time City
+BKSoftware179,BKSoftware,phone,http://kenh14.vn/tv-show.chn,Fri Jun 29  2018,Thư viện Tạ Quang Bửu
+Foody180,Foody,software,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Thu Jun 28  2018,Hồ Gươm
+Apple181,Apple,Transporting,https://www.facebook.com/,Wed Jun 27  2018,Toà nhà FPT Cầu Giấy
+Grab182,Grab,software,https://www.24h.com.vn/bong-da-c48.html,Tue Jun 26  2018,Cung văn hoá hữa nghị Việt Xô
+BKSoftware183,BKSoftware,Transporting,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Mon Jun 25  2018,Toà nhà FPT Cầu Giấy
+Grab184,Grab,Transporting,https://techtalk.vn/category/dev,Sun Jun 24  2018,Hồ Thiên Nga
+Bphone185,Bphone,phone,https://www.facebook.com/,Sat Jun 23  2018,Trụ sở Apple Califonia
+BKSoftware186,BKSoftware,software,https://www.facebook.com/,Fri Jun 22  2018,Hồ Thiên Nga
+FPT187,FPT,phone,https://www.youtube.com/,Thu Jun 21  2018,Thư viện Tạ Quang Bửu
+Foody188,Foody,car,https://www.facebook.com/,Wed Jun 20  2018,Lầu năm góc
+Bphone189,Bphone,IT,http://kenh14.vn/tv-show.chn,Tue Jun 19  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast190,VinFast,car,https://www.24h.com.vn/bong-da-c48.html,Mon Jun 18  2018,Thư viện Tạ Quang Bửu
+Foody191,Foody,phone,https://www.youtube.com/,Sun Jun 17  2018,Thư viện Tạ Quang Bửu
+Apple192,Apple,Transporting,https://www.youtube.com/,Sat Jun 16  2018,Hồ Gươm
+BKSoftware193,BKSoftware,taxi,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Fri Jun 15  2018,Hồ Gươm
+Bphone194,Bphone,phone,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Thu Jun 14  2018,Cung văn hoá hữa nghị Việt Xô
+VinFast195,VinFast,taxi,https://www.24h.com.vn/bong-da-c48.html,Wed Jun 13  2018,Toà nhà FPT Cầu Giấy
+Foody196,Foody,software,https://techtalk.vn/category/dev,Tue Jun 12  2018,Hồ Gươm
+Apple197,Apple,phone,https://www.facebook.com/,Mon Jun 11  2018,Time City
+FPT198,FPT,IT,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sun Jun 10  2018,Thư viện Tạ Quang Bửu
+Foody199,Foody,taxi,https://xuanhung937556578.wordpress.com/,Sat Jun 09  2018,Hồ Gươm
